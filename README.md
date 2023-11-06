@@ -2,7 +2,7 @@
 
 <p align="center">
 <a>
-    <img alt="MARKET" src="sources/giphy-mbi.gif">
+    <img alt="MARKET" src="sources/ECE.gif">
  </a>
   </p>
 
